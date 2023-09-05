@@ -1,0 +1,8 @@
+ifmt\cba\vo\ProdutoVO.class
+ifmt\cba\servico\SOAPBinding.class
+ifmt\cba\servico\WebService.class
+ifmt\cba\App.class
+ifmt\cba\negocio\GerenciadorEstoque.class
+ifmt\cba\servico\WebMethod.class
+ifmt\cba\servico\ServicoControleEstoque.class
+ifmt\cba\servico\ServicoControleEstoqueImpl.class
